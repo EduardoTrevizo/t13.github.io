@@ -1,0 +1,30 @@
+input {
+  padding:10px;
+  font-style: oblique;
+  border-radius: 10px;
+
+}
+
+select{
+  padding:10px;
+  font-style: oblique;
+  border-radius: 10px;
+
+}
+
+table,tr,td,th{
+  border: 1px solid black;
+  border-color: green;
+  text-decoration-color: white;
+  padding:10px;
+  font-style:italic;
+  background-color: silver;
+}
+#agregar{
+  background-color: blue;
+  border-color: blue;
+}
+#eli{
+  background-color: red;
+  border-color: red;
+}
